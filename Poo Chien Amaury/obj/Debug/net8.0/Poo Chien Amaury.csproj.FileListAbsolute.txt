@@ -1,0 +1,14 @@
+E:\6 eme info\UML\Poo Chien Amaury\bin\Debug\net8.0\Poo Chien Amaury.exe
+E:\6 eme info\UML\Poo Chien Amaury\bin\Debug\net8.0\Poo Chien Amaury.deps.json
+E:\6 eme info\UML\Poo Chien Amaury\bin\Debug\net8.0\Poo Chien Amaury.runtimeconfig.json
+E:\6 eme info\UML\Poo Chien Amaury\bin\Debug\net8.0\Poo Chien Amaury.dll
+E:\6 eme info\UML\Poo Chien Amaury\bin\Debug\net8.0\Poo Chien Amaury.pdb
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\Poo Chien Amaury.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\Poo Chien Amaury.AssemblyInfoInputs.cache
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\Poo Chien Amaury.AssemblyInfo.cs
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\Poo Chien Amaury.csproj.CoreCompileInputs.cache
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\Poo Chien Amaury.dll
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\refint\Poo Chien Amaury.dll
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\Poo Chien Amaury.pdb
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\Poo Chien Amaury.genruntimeconfig.cache
+E:\6 eme info\UML\Poo Chien Amaury\obj\Debug\net8.0\ref\Poo Chien Amaury.dll
