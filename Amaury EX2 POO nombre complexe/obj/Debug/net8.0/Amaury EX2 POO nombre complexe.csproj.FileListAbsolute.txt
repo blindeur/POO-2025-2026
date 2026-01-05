@@ -1,0 +1,15 @@
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\bin\Debug\net8.0\Amaury EX2 POO nombre complexe.exe
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\bin\Debug\net8.0\Amaury EX2 POO nombre complexe.deps.json
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\bin\Debug\net8.0\Amaury EX2 POO nombre complexe.runtimeconfig.json
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\bin\Debug\net8.0\Amaury EX2 POO nombre complexe.dll
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\bin\Debug\net8.0\Amaury EX2 POO nombre complexe.pdb
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\Amaury EX2 POO nombre complexe.GeneratedMSBuildEditorConfig.editorconfig
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\Amaury EX2 POO nombre complexe.AssemblyInfoInputs.cache
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\Amaury EX2 POO nombre complexe.AssemblyInfo.cs
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\Amaury EX2 POO nombre complexe.csproj.CoreCompileInputs.cache
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\Amaury EX2 POO nombre complexe.sourcelink.json
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\Amaury EX2 POO nombre complexe.dll
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\refint\Amaury EX2 POO nombre complexe.dll
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\Amaury EX2 POO nombre complexe.pdb
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\Amaury EX2 POO nombre complexe.genruntimeconfig.cache
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX2 POO nombre complexe\obj\Debug\net8.0\ref\Amaury EX2 POO nombre complexe.dll

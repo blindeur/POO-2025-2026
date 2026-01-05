@@ -1,0 +1,15 @@
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\bin\Debug\net8.0\AmauryPOOHeritageVehicule.exe
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\bin\Debug\net8.0\AmauryPOOHeritageVehicule.deps.json
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\bin\Debug\net8.0\AmauryPOOHeritageVehicule.runtimeconfig.json
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\bin\Debug\net8.0\AmauryPOOHeritageVehicule.dll
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\bin\Debug\net8.0\AmauryPOOHeritageVehicule.pdb
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\AmauryPOOHeritageVehicule.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\AmauryPOOHeritageVehicule.AssemblyInfoInputs.cache
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\AmauryPOOHeritageVehicule.AssemblyInfo.cs
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\AmauryPOOHeritageVehicule.csproj.CoreCompileInputs.cache
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\AmauryPOOHeritageVehicule.sourcelink.json
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\AmauryPOOHeritageVehicule.dll
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\refint\AmauryPOOHeritageVehicule.dll
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\AmauryPOOHeritageVehicule.pdb
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\AmauryPOOHeritageVehicule.genruntimeconfig.cache
+E:\6 eme info\POO-2025-2026\AmauryPOOHeritageVehicule\obj\Debug\net8.0\ref\AmauryPOOHeritageVehicule.dll

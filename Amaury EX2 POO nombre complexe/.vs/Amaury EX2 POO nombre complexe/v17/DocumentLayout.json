@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\6 eme info\\AibachAmaury_Jumanji_6TI26\\Amaury EX2 POO nombre complexe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53510460-88E3-45E3-9080-AB349BD19470}|Amaury EX2 POO nombre complexe.csproj|a:\\6 eme info\\aibachamaury_jumanji_6ti26\\amaury ex2 poo nombre complexe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53510460-88E3-45E3-9080-AB349BD19470}|Amaury EX2 POO nombre complexe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53510460-88E3-45E3-9080-AB349BD19470}|Amaury EX2 POO nombre complexe.csproj|a:\\6 eme info\\aibachamaury_jumanji_6ti26\\amaury ex2 poo nombre complexe\\complexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53510460-88E3-45E3-9080-AB349BD19470}|Amaury EX2 POO nombre complexe.csproj|solutionrelative:complexe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Complexe.cs",
+              "DocumentMoniker": "A:\\6 eme info\\AibachAmaury_Jumanji_6TI26\\Amaury EX2 POO nombre complexe\\Complexe.cs",
+              "RelativeDocumentMoniker": "Complexe.cs",
+              "ToolTip": "A:\\6 eme info\\AibachAmaury_Jumanji_6TI26\\Amaury EX2 POO nombre complexe\\Complexe.cs",
+              "RelativeToolTip": "Complexe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:55:17.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\6 eme info\\AibachAmaury_Jumanji_6TI26\\Amaury EX2 POO nombre complexe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\6 eme info\\AibachAmaury_Jumanji_6TI26\\Amaury EX2 POO nombre complexe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:55:04.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

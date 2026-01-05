@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\6 eme info\\UML\\Poo Chien Amaury\\",
+  "WorkspaceRootPath": "E:\\6 eme info\\POO-2025-2026\\Poo Chien Amaury\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86646E04-530E-43B1-AA82-46F93CF69EF3}|Poo Chien Amaury.csproj|e:\\6 eme info\\uml\\poo chien amaury\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86646E04-530E-43B1-AA82-46F93CF69EF3}|Poo Chien Amaury.csproj|e:\\6 eme info\\poo-2025-2026\\poo chien amaury\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86646E04-530E-43B1-AA82-46F93CF69EF3}|Poo Chien Amaury.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86646E04-530E-43B1-AA82-46F93CF69EF3}|Poo Chien Amaury.csproj|e:\\6 eme info\\uml\\poo chien amaury\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86646E04-530E-43B1-AA82-46F93CF69EF3}|Poo Chien Amaury.csproj|e:\\6 eme info\\poo-2025-2026\\poo chien amaury\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86646E04-530E-43B1-AA82-46F93CF69EF3}|Poo Chien Amaury.csproj|solutionrelative:chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Chien.cs",
-              "DocumentMoniker": "E:\\6 eme info\\UML\\Poo Chien Amaury\\Chien.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\Poo Chien Amaury\\Chien.cs",
               "RelativeDocumentMoniker": "Chien.cs",
-              "ToolTip": "E:\\6 eme info\\UML\\Poo Chien Amaury\\Chien.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\Poo Chien Amaury\\Chien.cs",
               "RelativeToolTip": "Chien.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswCQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T07:41:30.276Z",
               "EditorCaption": ""
@@ -37,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\6 eme info\\UML\\Poo Chien Amaury\\Program.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\Poo Chien Amaury\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\6 eme info\\UML\\Poo Chien Amaury\\Program.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\Poo Chien Amaury\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T07:38:03.509Z",
               "EditorCaption": ""

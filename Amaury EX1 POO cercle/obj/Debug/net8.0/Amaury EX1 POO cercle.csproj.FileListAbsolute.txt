@@ -1,0 +1,15 @@
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\bin\Debug\net8.0\Amaury EX1 POO cercle.exe
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\bin\Debug\net8.0\Amaury EX1 POO cercle.deps.json
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\bin\Debug\net8.0\Amaury EX1 POO cercle.runtimeconfig.json
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\bin\Debug\net8.0\Amaury EX1 POO cercle.dll
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\bin\Debug\net8.0\Amaury EX1 POO cercle.pdb
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\Amaury EX1 POO cercle.GeneratedMSBuildEditorConfig.editorconfig
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\Amaury EX1 POO cercle.AssemblyInfoInputs.cache
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\Amaury EX1 POO cercle.AssemblyInfo.cs
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\Amaury EX1 POO cercle.csproj.CoreCompileInputs.cache
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\Amaury EX1 POO cercle.sourcelink.json
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\Amaury EX1 POO cercle.dll
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\refint\Amaury EX1 POO cercle.dll
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\Amaury EX1 POO cercle.pdb
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\Amaury EX1 POO cercle.genruntimeconfig.cache
+A:\6 eme info\AibachAmaury_Jumanji_6TI26\Amaury EX1 POO cercle\obj\Debug\net8.0\ref\Amaury EX1 POO cercle.dll
