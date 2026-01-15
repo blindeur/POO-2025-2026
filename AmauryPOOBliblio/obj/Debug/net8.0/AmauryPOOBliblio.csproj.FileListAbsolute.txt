@@ -1,0 +1,15 @@
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\bin\Debug\net8.0\AmauryPOOBliblio.exe
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\bin\Debug\net8.0\AmauryPOOBliblio.deps.json
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\bin\Debug\net8.0\AmauryPOOBliblio.runtimeconfig.json
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\bin\Debug\net8.0\AmauryPOOBliblio.dll
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\bin\Debug\net8.0\AmauryPOOBliblio.pdb
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\AmauryPOOBliblio.GeneratedMSBuildEditorConfig.editorconfig
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\AmauryPOOBliblio.AssemblyInfoInputs.cache
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\AmauryPOOBliblio.AssemblyInfo.cs
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\AmauryPOOBliblio.csproj.CoreCompileInputs.cache
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\AmauryPOOBliblio.sourcelink.json
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\AmauryPOOBliblio.dll
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\refint\AmauryPOOBliblio.dll
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\AmauryPOOBliblio.pdb
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\AmauryPOOBliblio.genruntimeconfig.cache
+A:\6 eme info\POO-2025-2026\AmauryPOOBliblio\obj\Debug\net8.0\ref\AmauryPOOBliblio.dll

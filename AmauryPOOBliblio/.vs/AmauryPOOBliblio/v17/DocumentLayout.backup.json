@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE9F23F-0E46-4586-AD8D-5D92988065CF}|AmauryPOOBliblio.csproj|a:\\6 eme info\\poo-2025-2026\\amaurypoobliblio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE9F23F-0E46-4586-AD8D-5D92988065CF}|AmauryPOOBliblio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE9F23F-0E46-4586-AD8D-5D92988065CF}|AmauryPOOBliblio.csproj|a:\\6 eme info\\poo-2025-2026\\amaurypoobliblio\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE9F23F-0E46-4586-AD8D-5D92988065CF}|AmauryPOOBliblio.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE9F23F-0E46-4586-AD8D-5D92988065CF}|AmauryPOOBliblio.csproj|a:\\6 eme info\\poo-2025-2026\\amaurypoobliblio\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE9F23F-0E46-4586-AD8D-5D92988065CF}|AmauryPOOBliblio.csproj|solutionrelative:bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bibliotheque.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\Bibliotheque.cs",
+              "RelativeDocumentMoniker": "Bibliotheque.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\Bibliotheque.cs*",
+              "RelativeToolTip": "Bibliotheque.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:31:25.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\Livre.cs",
+              "RelativeDocumentMoniker": "Livre.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\Livre.cs",
+              "RelativeToolTip": "Livre.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:31:09.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:29:57.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

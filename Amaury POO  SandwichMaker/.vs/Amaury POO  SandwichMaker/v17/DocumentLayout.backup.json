@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\6 eme info\\POO-2025-2026\\Amaury POO  SandwichMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08E686-0A6E-4EAB-8D1D-FD22D586C992}|Amaury POO  SandwichMaker.csproj|e:\\6 eme info\\poo-2025-2026\\amaury poo  sandwichmaker\\sandwichs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08E686-0A6E-4EAB-8D1D-FD22D586C992}|Amaury POO  SandwichMaker.csproj|solutionrelative:sandwichs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC08E686-0A6E-4EAB-8D1D-FD22D586C992}|Amaury POO  SandwichMaker.csproj|e:\\6 eme info\\poo-2025-2026\\amaury poo  sandwichmaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC08E686-0A6E-4EAB-8D1D-FD22D586C992}|Amaury POO  SandwichMaker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sandwichs.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\Amaury POO  SandwichMaker\\Sandwichs.cs",
+              "RelativeDocumentMoniker": "Sandwichs.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\Amaury POO  SandwichMaker\\Sandwichs.cs*",
+              "RelativeToolTip": "Sandwichs.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:52:16.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\Amaury POO  SandwichMaker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\Amaury POO  SandwichMaker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:51:29.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

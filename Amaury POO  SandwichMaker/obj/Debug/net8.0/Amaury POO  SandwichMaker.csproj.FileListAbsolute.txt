@@ -1,0 +1,15 @@
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\bin\Debug\net8.0\Amaury POO  SandwichMaker.exe
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\bin\Debug\net8.0\Amaury POO  SandwichMaker.deps.json
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\bin\Debug\net8.0\Amaury POO  SandwichMaker.runtimeconfig.json
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\bin\Debug\net8.0\Amaury POO  SandwichMaker.dll
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\bin\Debug\net8.0\Amaury POO  SandwichMaker.pdb
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\Amaury POO  SandwichMaker.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\Amaury POO  SandwichMaker.AssemblyInfoInputs.cache
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\Amaury POO  SandwichMaker.AssemblyInfo.cs
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\Amaury POO  SandwichMaker.csproj.CoreCompileInputs.cache
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\Amaury POO  SandwichMaker.sourcelink.json
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\Amaury POO  SandwichMaker.dll
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\refint\Amaury POO  SandwichMaker.dll
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\Amaury POO  SandwichMaker.pdb
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\Amaury POO  SandwichMaker.genruntimeconfig.cache
+E:\6 eme info\POO-2025-2026\Amaury POO  SandwichMaker\obj\Debug\net8.0\ref\Amaury POO  SandwichMaker.dll
