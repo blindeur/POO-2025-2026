@@ -9,6 +9,10 @@
             Livre livre2 = new Livre("Le Petit Prince", "Antoine de Saint-Exupéry", 1);
             Livre livre3 = new Livre("Germinal", "Émile Zola", 5);
 
+
+
+
+
             // Création de la bibliothèque
             Bibliotheque biblio = new Bibliotheque();
 
@@ -16,6 +20,7 @@
             biblio.ajoute(livre1);
             biblio.ajoute(livre2);
             biblio.ajoute(livre3);
+
 
             // Inventaire initial
             biblio.inventaire();
@@ -31,6 +36,8 @@
             biblio.inventaire();
 
             Console.ReadLine();
+
+         
         }
     }
 }

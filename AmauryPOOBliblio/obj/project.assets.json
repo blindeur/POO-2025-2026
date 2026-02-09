@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Amaury\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\230610\\.nuget\\packages\\": {},
+    "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\AmauryPOOBliblio.csproj",
+      "projectUniqueName": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\AmauryPOOBliblio.csproj",
       "projectName": "AmauryPOOBliblio",
-      "projectPath": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\AmauryPOOBliblio.csproj",
-      "packagesPath": "C:\\Users\\Amaury\\.nuget\\packages\\",
-      "outputPath": "A:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\obj\\",
+      "projectPath": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\AmauryPOOBliblio.csproj",
+      "packagesPath": "C:\\Users\\230610\\.nuget\\packages\\",
+      "outputPath": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBliblio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Amaury\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\230610\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,38 +10,56 @@ namespace AmauryPOOBliblio
     {
 
         // Attributs
-        public string titre;
-        public string auteur;
-        public int etat;
+        private string _titre;
+        private string _auteur;
+        private int _etat;
+
+        public string Titre
+        {
+            get { return _titre; }
+            set { _titre = value; }
+        }
+        public string Auteur
+        {
+            get { return _auteur; }
+            set { _auteur = value; }
+        }
+        public int Etat
+        {
+            get { return _etat; }
+            set { _etat = value; }
+        }
+
 
         // Constructeur
         public Livre(string titre, string auteur, int etat)
         {
-            this.titre = titre;
-            this.auteur = auteur;
+            this.Titre = titre;
+            this.Auteur = auteur;
 
             if (etat < 0)
-                this.etat = 0;
+                this.Etat = 0;
             else if (etat > 5)
-                this.etat = 5;
+                this.Etat = 5;
             else
-                this.etat = etat;
+                this.Etat = etat;
+
         }
 
         // Méthodes
         public void degrade()
         {
-            if (etat > 0)
+            if (Etat > 0)
             {
-                etat--;
+                Etat--;
             }
         }
 
         public void description()
         {
-            Console.WriteLine("Titre : " + titre);
-            Console.WriteLine("Auteur : " + auteur);
-            Console.WriteLine("État : " + etat);
+            Console.WriteLine("Titre : " + Titre);
+            Console.WriteLine("Auteur : " + Auteur);
+            Console.WriteLine("État : " + Etat);
             Console.WriteLine("------------------------");
         }
     }

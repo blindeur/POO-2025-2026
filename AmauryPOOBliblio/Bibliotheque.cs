@@ -18,14 +18,34 @@ namespace AmauryPOOBliblio
         }
 
         // Méthodes
-        public void ajoute(Livre livre)
+        public string ajoute(Livre livre)
         {
-            livres.Add(livre);
+            
+            string info = $"Ajout du livre : {livre.Titre} par {livre.Auteur}";
+           
+            if (livre.Etat > 0)
+            {
+                livres.Add(livre);
+                info +=  "Le livre est en bon état et sera ajouté à la bibliothèque.";
+
+            }else
+            {
+                info += "Le livre est abîmé et ne sera pas ajouté à la bibliothèque.";
+            }
+
+            return info;
         }
 
         public void supprime_livres_abimes()
         {
-            livres.RemoveAll(l => l.etat == 0);
+            //livres.RemoveAll(l => l.etat == 0); BON MAIS ON PART SUR DU CLASSIQUE
+            for (int i = livres.Count - 1; i >= 0; i--)
+            {
+                if (livres[i].Etat == 0)
+                {
+                    livres.RemoveAt(i);
+                }
+            }
         }
 
         public void inventaire()
