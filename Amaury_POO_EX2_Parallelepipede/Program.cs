@@ -2,96 +2,143 @@
 {
     internal class Program
     {
-        static void Main()
-        {
-            ConsoleKey choix;
-
-            do
+            static void Main()
             {
-                Console.Clear();
-                Console.WriteLine("===== MENU CONSTRUIRE ET CALCULER =====");
-                Console.WriteLine("1 - Construire et calculer le périmètre du carré");
-                Console.WriteLine("2 - Construire et calculer le périmètre du rectangle");
-                Console.WriteLine("3 - Construire et calculer l'aire du carré");
-                Console.WriteLine("4 - Construire et calculer l'aire du rectangle");
-                Console.WriteLine("0 - Quitter");
-                Console.Write("\nChoix : ");
+                int choix;
 
-                choix = Console.ReadKey().Key;
-                Console.WriteLine();
-
-                switch (choix)
+                do
                 {
-                    case ConsoleKey.D1:
-                    case ConsoleKey.NumPad1:
-                        CalculPerimetreCarre();
-                        break;
+                    Console.Clear();
 
-                    case ConsoleKey.D2:
-                    case ConsoleKey.NumPad2:
-                        CalculPerimetreRectangle();
-                        break;
+                    Console.WriteLine("===== MENU FORMES =====");
+                    Console.WriteLine("1 - Calculer l'aire du carré");
+                    Console.WriteLine("2 - Calculer le périmètre du carré");
+                    Console.WriteLine("3 - Calculer l'aire du rectangle");
+                    Console.WriteLine("4 - Calculer le périmètre du rectangle");
+                    Console.WriteLine("5 - Afficher un carré");
+                    Console.WriteLine("6 - Afficher un rectangle");
+                    Console.WriteLine("0 - Quitter");
 
-                    case ConsoleKey.D3:
-                    case ConsoleKey.NumPad3:
-                        CalculAireCarre();
-                        break;
+                    Console.Write("\nVotre choix : ");
+                    choix = int.Parse(Console.ReadLine());
 
-                    case ConsoleKey.D4:
-                    case ConsoleKey.NumPad4:
-                        CalculAireRectangle();
-                        break;
-                }
+                    switch (choix)
+                    {
+                        case 1:
+                            AireCarre();
+                            break;
 
-                if (choix != ConsoleKey.D0 && choix != ConsoleKey.NumPad0)
-                {
-                    Console.WriteLine("\nAppuyez sur une touche pour continuer...");
-                    Console.ReadKey();
-                }
+                        case 2:
+                            PerimetreCarre();
+                            break;
 
-            } while (choix != ConsoleKey.D0 && choix != ConsoleKey.NumPad0);
-        }
+                        case 3:
+                            AireRectangle();
+                            break;
 
-        static void CalculPerimetreCarre()
-        {
-            Console.Write("Entrez la longueur du côté : ");
-            float cote = float.Parse(Console.ReadLine());
+                        case 4:
+                            PerimetreRectangle();
+                            break;
 
-            float perimetre = 4 * cote;
-            Console.WriteLine($"Périmètre du carré = {perimetre}");
-        }
+                        case 5:
+                            AfficherCarre();
+                            break;
 
-        static void CalculPerimetreRectangle()
-        {
-            Console.Write("Entrez la longueur : ");
-            float longueur = float.Parse(Console.ReadLine());
+                        case 6:
+                            AfficherRectangle();
+                            break;
 
-            Console.Write("Entrez la largeur : ");
-            float largeur = float.Parse(Console.ReadLine());
+                        case 0:
+                            Console.WriteLine("Fin du programme.");
+                            break;
 
-            float perimetre = 2 * (longueur + largeur);
-            Console.WriteLine($"Périmètre du rectangle = {perimetre}");
-        }
+                        default:
+                            Console.WriteLine("Choix invalide !");
+                            break;
+                    }
 
-        static void CalculAireCarre()
-        {
-            Console.Write("Entrez la longueur du côté : ");
-            float cote = float.Parse(Console.ReadLine());
+                    if (choix != 0)
+                    {
+                        Console.WriteLine("\nAppuyez sur une touche pour continuer...");
+                        Console.ReadKey();
+                    }
 
-            float aire = cote * cote;
-            Console.WriteLine($"Aire du carré = {aire}");
-        }
+                } while (choix != 0);
+            }
 
-        static void CalculAireRectangle()
-        {
-            Console.Write("Entrez la longueur : ");
-            float longueur = float.Parse(Console.ReadLine());
+            static void AireCarre()
+            {
+                Console.Write("Entrez le côté du carré : ");
+                float c = float.Parse(Console.ReadLine());
 
-            Console.Write("Entrez la largeur : ");
-            float largeur = float.Parse(Console.ReadLine());
+                Carre carre = new Carre(c, "Rouge");
 
-            float aire = longueur * largeur;
-            Console.WriteLine($"Aire du rectangle = {aire}");
+                Console.WriteLine($"Aire du carré = {carre.CalculAire():0.00}");
+            }
+
+            static void PerimetreCarre()
+            {
+                Console.Write("Entrez le côté du carré : ");
+                float c = float.Parse(Console.ReadLine());
+
+                Carre carre = new Carre(c, "Rouge");
+
+                Console.WriteLine($"Périmètre du carré = {carre.CalculPerimetre():0.00}");
+            }
+
+            static void AireRectangle()
+            {
+                Console.Write("Entrez la longueur : ");
+                float L = float.Parse(Console.ReadLine());
+
+                Console.Write("Entrez la largeur : ");
+                float l = float.Parse(Console.ReadLine());
+
+                Rectangle r = new Rectangle(L, l, "Bleu");
+
+                Console.WriteLine($"Aire du rectangle = {r.CalculAire():0.00}");
+            }
+
+            static void PerimetreRectangle()
+            {
+                Console.Write("Entrez la longueur : ");
+                float L = float.Parse(Console.ReadLine());
+
+                Console.Write("Entrez la largeur : ");
+                float l = float.Parse(Console.ReadLine());
+
+                Rectangle r = new Rectangle(L, l, "Bleu");
+
+                Console.WriteLine($"Périmètre du rectangle = {r.CalculPerimetre():0.00}");
+            }
+
+            static void AfficherCarre()
+            {
+                Console.Write("Entrez le côté : ");
+                float c = float.Parse(Console.ReadLine());
+
+                Console.Write("Entrez la couleur : ");
+                string couleur = Console.ReadLine();
+
+                Carre carre = new Carre(c, couleur);
+
+                carre.Afficher();
+            }
+
+            static void AfficherRectangle()
+            {
+                Console.Write("Entrez la longueur : ");
+                float L = float.Parse(Console.ReadLine());
+
+                Console.Write("Entrez la largeur : ");
+                float l = float.Parse(Console.ReadLine());
+
+                Console.Write("Entrez la couleur : ");
+                string couleur = Console.ReadLine();
+
+                Rectangle r = new Rectangle(L, l, couleur);
+
+                r.Afficher();
+            }
         }
     }
-}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Amaury_POO_4EXE_ACT_POO_HERITAGE/1.0.0": {
+        "runtime": {
+          "Amaury_POO_4EXE_ACT_POO_HERITAGE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amaury_POO_4EXE_ACT_POO_HERITAGE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

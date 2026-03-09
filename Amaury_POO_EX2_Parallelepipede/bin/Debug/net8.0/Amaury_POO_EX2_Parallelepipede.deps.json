@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Amaury_POO_EX2_Parallelepipede/1.0.0": {
+        "runtime": {
+          "Amaury_POO_EX2_Parallelepipede.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amaury_POO_EX2_Parallelepipede/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\Amaury_POO_EX2_Parallelepipede.csproj": {}
+    "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\Amaury_POO_EX2_Parallelepipede.csproj": {}
   },
   "projects": {
-    "E:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\Amaury_POO_EX2_Parallelepipede.csproj": {
+    "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\Amaury_POO_EX2_Parallelepipede.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\Amaury_POO_EX2_Parallelepipede.csproj",
+        "projectUniqueName": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\Amaury_POO_EX2_Parallelepipede.csproj",
         "projectName": "Amaury_POO_EX2_Parallelepipede",
-        "projectPath": "E:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\Amaury_POO_EX2_Parallelepipede.csproj",
-        "packagesPath": "C:\\Users\\230610\\.nuget\\packages\\",
-        "outputPath": "E:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\obj\\",
+        "projectPath": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\Amaury_POO_EX2_Parallelepipede.csproj",
+        "packagesPath": "C:\\Users\\Amaury\\.nuget\\packages\\",
+        "outputPath": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_EX2_Parallelepipede\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\230610\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amaury\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

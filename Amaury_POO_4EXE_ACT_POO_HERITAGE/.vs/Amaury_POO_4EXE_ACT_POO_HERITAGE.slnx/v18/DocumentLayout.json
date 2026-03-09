@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|a:\\6 eme info\\poo-2025-2026\\amaury_poo_4exe_act_poo_heritage\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|solutionrelative:plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|a:\\6 eme info\\poo-2025-2026\\amaury_poo_4exe_act_poo_heritage\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|solutionrelative:boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|a:\\6 eme info\\poo-2025-2026\\amaury_poo_4exe_act_poo_heritage\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|a:\\6 eme info\\poo-2025-2026\\amaury_poo_4exe_act_poo_heritage\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|a:\\6 eme info\\poo-2025-2026\\amaury_poo_4exe_act_poo_heritage\\roadvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|solutionrelative:roadvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|a:\\6 eme info\\poo-2025-2026\\amaury_poo_4exe_act_poo_heritage\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|a:\\6 eme info\\poo-2025-2026\\amaury_poo_4exe_act_poo_heritage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E405E01-4C5C-4EAD-B2AD-269509104370}|Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:53:54.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoadVehicle.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\RoadVehicle.cs",
+              "RelativeDocumentMoniker": "RoadVehicle.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\RoadVehicle.cs",
+              "RelativeToolTip": "RoadVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:53:27.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:52:53.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Truck.cs",
+              "RelativeDocumentMoniker": "Truck.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Truck.cs",
+              "RelativeToolTip": "Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:52:12.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Boat.cs",
+              "RelativeDocumentMoniker": "Boat.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Boat.cs",
+              "RelativeToolTip": "Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:51:50.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Plane.cs",
+              "RelativeDocumentMoniker": "Plane.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Plane.cs",
+              "RelativeToolTip": "Plane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:51:20.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\6 eme info\\POO-2025-2026\\Amaury_POO_4EXE_ACT_POO_HERITAGE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T19:48:29.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

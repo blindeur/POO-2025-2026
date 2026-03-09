@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amaury_POO_EX2_Parallelepipede")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ae9c196380506b02dca4f93434ab4e2dc44cea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ede1b130b9a1047659102265497f83222ebd6f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amaury_POO_EX2_Parallelepipede")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amaury_POO_EX2_Parallelepipede")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

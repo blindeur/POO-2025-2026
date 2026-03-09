@@ -1,0 +1,15 @@
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\bin\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.exe
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\bin\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.deps.json
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\bin\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.runtimeconfig.json
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\bin\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.dll
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\bin\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.pdb
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.GeneratedMSBuildEditorConfig.editorconfig
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.AssemblyInfoInputs.cache
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.AssemblyInfo.cs
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.csproj.CoreCompileInputs.cache
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.sourcelink.json
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.dll
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\refint\Amaury_POO_4EXE_ACT_POO_HERITAGE.dll
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.pdb
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\Amaury_POO_4EXE_ACT_POO_HERITAGE.genruntimeconfig.cache
+A:\6 eme info\POO-2025-2026\Amaury_POO_4EXE_ACT_POO_HERITAGE\obj\Debug\net10.0\ref\Amaury_POO_4EXE_ACT_POO_HERITAGE.dll
