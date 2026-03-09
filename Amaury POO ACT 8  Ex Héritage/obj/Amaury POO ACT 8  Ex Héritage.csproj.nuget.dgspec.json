@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\6 eme info\\POO-2025-2026\\ACT 1 POO CHIEN\\ACT 1 POO CHIEN.csproj": {}
+    "E:\\6 eme info\\POO-2025-2026\\Amaury POO ACT 8  Ex Héritage\\Amaury POO ACT 8  Ex Héritage.csproj": {}
   },
   "projects": {
-    "E:\\6 eme info\\POO-2025-2026\\ACT 1 POO CHIEN\\ACT 1 POO CHIEN.csproj": {
+    "E:\\6 eme info\\POO-2025-2026\\Amaury POO ACT 8  Ex Héritage\\Amaury POO ACT 8  Ex Héritage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\6 eme info\\POO-2025-2026\\ACT 1 POO CHIEN\\ACT 1 POO CHIEN.csproj",
-        "projectName": "ACT 1 POO CHIEN",
-        "projectPath": "E:\\6 eme info\\POO-2025-2026\\ACT 1 POO CHIEN\\ACT 1 POO CHIEN.csproj",
+        "projectUniqueName": "E:\\6 eme info\\POO-2025-2026\\Amaury POO ACT 8  Ex Héritage\\Amaury POO ACT 8  Ex Héritage.csproj",
+        "projectName": "Amaury POO ACT 8  Ex Héritage",
+        "projectPath": "E:\\6 eme info\\POO-2025-2026\\Amaury POO ACT 8  Ex Héritage\\Amaury POO ACT 8  Ex Héritage.csproj",
         "packagesPath": "C:\\Users\\230610\\.nuget\\packages\\",
-        "outputPath": "E:\\6 eme info\\POO-2025-2026\\ACT 1 POO CHIEN\\obj\\",
+        "outputPath": "E:\\6 eme info\\POO-2025-2026\\Amaury POO ACT 8  Ex Héritage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages"
