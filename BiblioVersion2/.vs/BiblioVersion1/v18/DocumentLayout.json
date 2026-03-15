@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|e:\\6 eme info\\poo-2025-2026\\biblioversion2\\classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emprunt.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Emprunt.cs",
+              "RelativeDocumentMoniker": "classes\\Emprunt.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Emprunt.cs",
+              "RelativeToolTip": "classes\\Emprunt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:49:50.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
