@@ -1,11 +1,15 @@
 ﻿using BiblioVersion1.classes;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace BiblioVersion1
 {
     internal class Program
     {
+       
         static void Main(string[] args)
         {
+            int id;
+            //methodeDuProjet Outils = new methodeDuProjet();
             Bibliotheque biblio = new Bibliotheque();
             do
             {
@@ -23,20 +27,34 @@ namespace BiblioVersion1
                 switch (Console.ReadKey().Key)
                 {
                     case ConsoleKey.L:
+
                         string titre = "";
-                        string auteur = "";
+                        string prenomAuteur = "";
+                        string nomAuteur = "";
+                        int anneeDeParution;
                         int etat = 5;
 
                         Console.WriteLine("\nTitre du livre:");
                         titre = Console.ReadLine();
-                        Console.WriteLine("auteur du livre:");
-                        auteur = Console.ReadLine();
+                        Console.WriteLine("Prénom de l'auteur du livre:");
+                        prenomAuteur = Console.ReadLine();
+                        Console.WriteLine("Nom del'auteur du livre:");
+                        nomAuteur = Console.ReadLine();
+                        Console.WriteLine("Année de Parution du livre:");
+                        anneeDeParution = int.Parse(Console.ReadLine());
+                        Console.WriteLine("Quelle est l'etat du livre de 1-5 : ");
+                        etat = int.Parse(Console.ReadLine());
+
 
                         Livre livreExistant;
-                        if (!TrouveLivre(titre, biblio.Contenu, out livreExistant))
+                        if (!methodeDuProjet.TrouveLivre(titre, biblio.Contenu, out livreExistant))
                         {
-                            biblio.Contenu.Add(new Livre(titre, auteur, etat));
-                            Console.WriteLine("livre créé");
+                            // mettre dans la base de données
+                            if (DataManager.AjouteLivre(prenomAuteur, nomAuteur, titre, anneeDeParution, etat, out  id))
+                            {
+                                biblio.Contenu.Add(new Livre(id,titre, prenomAuteur, nomAuteur, anneeDeParution, etat));
+                                Console.WriteLine("livre créé");
+                            }                            
                         }
                         else
                         {
@@ -45,19 +63,28 @@ namespace BiblioVersion1
 
                         break;
                     case ConsoleKey.B:
+                     
                         string nom = "";
                         string prenom = "";
                         string email = "";
+                        string login = "";
+                        string motDePasse = "";
 
                         Console.WriteLine("\nNom de l'abonné :");
                         nom = Console.ReadLine();
                         Console.WriteLine("Prénom de l'abonné :");
                         prenom = Console.ReadLine();
+                        Console.WriteLine("email de l'abonné :");
+                        email = Console.ReadLine();
+                        Console.WriteLine("login de l'abonné :");
+                        login = Console.ReadLine();
+                        Console.WriteLine("password de l'abonné :");
+                        motDePasse = Console.ReadLine();
 
                         Abonne abonneExistant;
-                        if (!TrouveAbonne(nom, biblio.Abonnes, out abonneExistant))
+                        if (!methodeDuProjet.TrouveAbonne(nom, biblio.Abonnes, out abonneExistant))
                         {
-                            biblio.CreeAbonne(nom, prenom, "");
+                           Console.WriteLine(biblio.CreeAbonne(nom, prenom,""));
                             Console.WriteLine("Abonné enregistré !");
                         }
                         else
@@ -74,7 +101,7 @@ namespace BiblioVersion1
                         Console.WriteLine("Titre du livre qui est dégradé :");
                         titre = Console.ReadLine();
                         Livre livreADegrader;
-                        if (TrouveLivre(titre, biblio.Contenu, out livreADegrader))
+                        if (methodeDuProjet.TrouveLivre(titre, biblio.Contenu, out livreADegrader))
                         {
                             livreADegrader.Degrade();
                             Console.WriteLine("Mise à jour de l'état effectuée !");
@@ -94,18 +121,21 @@ namespace BiblioVersion1
                     case ConsoleKey.C:
                         Console.WriteLine("\nChoisissez un livre \n");
                         Console.WriteLine("\n" + biblio.Inventaire());
-                        Console.WriteLine("Titre du livre que vous désirez emprunter :");
-                        titre = Console.ReadLine();
+                        int numero =  methodeDuProjet.lireEntier("Numéro du livre que vous désirez emprunter :");
                         Livre livreAEmprunter;
-                        if (TrouveLivre(titre, biblio.Contenu, out livreAEmprunter))
+                        if (methodeDuProjet.TrouveLivreAvecId(numero, biblio.Contenu, out livreAEmprunter))
                         {
-                            Console.WriteLine("Quel abonné veut l'emprunter ? Taper son nom.");
-                            nom = Console.ReadLine();
+                            Console.WriteLine("\nListe des abonnés : \n "+ biblio.ListeAbonnes());
+                            numero = methodeDuProjet.lireEntier("Quel abonné veut l'emprunter ? Taper son numéro.");
                             Abonne emprunteur;
-                            if (TrouveAbonne(nom, biblio.Abonnes, out emprunteur))
-                            {
-                                biblio.AjouteEmpruntLivre(livreAEmprunter, emprunteur, DateTime.Today);
-                                Console.WriteLine("Emprunt enregistré !");
+                            if (methodeDuProjet.TrouveAbonneAvecId(numero, biblio.Abonnes, out emprunteur))
+                            {   
+                                if (DataManager.AjouteEmprunt(livreAEmprunter.Id, emprunteur.Id, DateTime.Today, out  id))
+                                {
+                                    biblio.AjouteEmpruntLivre(id,livreAEmprunter, emprunteur, DateTime.Today);
+
+                                    Console.WriteLine("Emprunt enregistré !");
+                                }                                                              
                             }
                             else
                             {
@@ -125,7 +155,7 @@ namespace BiblioVersion1
                         Console.WriteLine("\nTitre du livre qui rentre :");
                         titre = Console.ReadLine();
                         Emprunt emprunt;
-                        if (TrouveEmprunt(titre, biblio.Emprunts, out emprunt))
+                        if (methodeDuProjet.TrouveEmprunt(titre, biblio.Emprunts, out emprunt))
                         {
                             Console.WriteLine(biblio.NotifieRetourLivre(emprunt, DateTime.Today));
                             
@@ -145,47 +175,6 @@ namespace BiblioVersion1
                 //} while (Console.ReadKey().Key == ConsoleKey.Spacebar);
             } while (true);
         }
-        static bool TrouveLivre(string titre, List<Livre> biblio, out Livre livre)
-        {
-            bool trouve = false;
-            livre = null;
-            foreach (Livre item in biblio)
-            {
-                if (item.Titre == titre)
-                {
-                    livre = item;
-                    trouve = true;
-                }
-            }
-            return trouve;
-        }
-        static bool TrouveEmprunt(string titre, List<Emprunt> emprunts, out Emprunt emprunt)
-        {
-            bool trouve = false;
-            emprunt = null;
-            foreach (Emprunt item in emprunts)
-            {
-                if (item.LivreEmprunte.Titre == titre)
-                {
-                    emprunt = item;
-                    trouve = true;
-                }
-            }
-            return trouve;
-        }
-        static bool TrouveAbonne(string nom, List<Abonne> abonnes, out Abonne abonne)
-        {
-            bool trouve = false;
-            abonne = null;
-            foreach (Abonne item in abonnes)
-            {
-                if (item.Nom == nom)
-                {
-                    abonne = item;
-                    trouve = true;
-                }
-            }
-            return trouve;
-        }
+       
     }
 }

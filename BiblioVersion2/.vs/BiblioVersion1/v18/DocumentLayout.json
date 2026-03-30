@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|e:\\6 eme info\\poo-2025-2026\\biblioversion2\\classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|e:\\6 eme info\\poo-2025-2026\\biblioversion2\\methodeduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:methodeduprojet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|e:\\6 eme info\\poo-2025-2026\\biblioversion2\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|e:\\6 eme info\\poo-2025-2026\\biblioversion2\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|e:\\6 eme info\\poo-2025-2026\\biblioversion2\\classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|e:\\6 eme info\\poo-2025-2026\\biblioversion2\\classes\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:classes\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|e:\\6 eme info\\poo-2025-2026\\biblioversion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA70078-13E4-4BFA-A0EF-882CEEC8F0F2}|BiblioVersion1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\DataManager.cs",
+              "RelativeDocumentMoniker": "DataManager.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\DataManager.cs",
+              "RelativeToolTip": "DataManager.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwDUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:00:43.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Livre.cs",
+              "RelativeDocumentMoniker": "classes\\Livre.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Livre.cs",
+              "RelativeToolTip": "classes\\Livre.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:44:42.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "methodeDuProjet.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\methodeDuProjet.cs",
+              "RelativeDocumentMoniker": "methodeDuProjet.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\methodeDuProjet.cs",
+              "RelativeToolTip": "methodeDuProjet.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T07:54:47.859Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bibliotheque.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Bibliotheque.cs",
+              "RelativeDocumentMoniker": "classes\\Bibliotheque.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Bibliotheque.cs",
+              "RelativeToolTip": "classes\\Bibliotheque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:26:49.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Abonne.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Abonne.cs",
+              "RelativeDocumentMoniker": "classes\\Abonne.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Abonne.cs",
+              "RelativeToolTip": "classes\\Abonne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:52:49.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwIIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:35:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Emprunt.cs",
               "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Emprunt.cs",
               "RelativeDocumentMoniker": "classes\\Emprunt.cs",
               "ToolTip": "E:\\6 eme info\\POO-2025-2026\\BiblioVersion2\\classes\\Emprunt.cs",
               "RelativeToolTip": "classes\\Emprunt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T08:49:50.127Z",
               "EditorCaption": ""

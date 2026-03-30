@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBiblioV2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|e:\\6 eme info\\poo-2025-2026\\amaurypoobibliov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|e:\\6 eme info\\poo-2025-2026\\amaurypoobibliov2\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|solutionrelative:bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|e:\\6 eme info\\poo-2025-2026\\amaurypoobibliov2\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|solutionrelative:abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|e:\\6 eme info\\poo-2025-2026\\amaurypoobibliov2\\emprunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|e:\\6 eme info\\poo-2025-2026\\amaurypoobibliov2\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|solutionrelative:livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|e:\\6 eme info\\poo-2025-2026\\amaurypoobibliov2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|e:\\6 eme info\\poo-2025-2026\\amaurypoobibliov2\\abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEE00277-DA3F-36B9-EE50-0404F3A391A9}|AmauryPOOBiblioV2.csproj|solutionrelative:abonne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Livre.cs",
               "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBiblioV2\\Livre.cs",
               "RelativeDocumentMoniker": "Livre.cs",
@@ -51,20 +47,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Abonne.cs",
               "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBiblioV2\\Abonne.cs",
               "RelativeDocumentMoniker": "Abonne.cs",
               "ToolTip": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBiblioV2\\Abonne.cs",
               "RelativeToolTip": "Abonne.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T08:40:29.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Emprunt.cs",
               "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBiblioV2\\Emprunt.cs",
               "RelativeDocumentMoniker": "Emprunt.cs",
@@ -77,20 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBiblioV2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBiblioV2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwDYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T08:24:02.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Bibliotheque.cs",
               "DocumentMoniker": "E:\\6 eme info\\POO-2025-2026\\AmauryPOOBiblioV2\\Bibliotheque.cs",
               "RelativeDocumentMoniker": "Bibliotheque.cs",

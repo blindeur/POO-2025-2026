@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmauryPOOBiblioV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+052024fa949ce6a6e2fb35ce73eb415f6d8bcb5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5792db75ec22c5adf1f668a5bc1389fe99850212")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmauryPOOBiblioV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmauryPOOBiblioV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

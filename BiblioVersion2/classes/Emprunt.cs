@@ -9,10 +9,18 @@ namespace BiblioVersion1.classes
 {
     public class Emprunt
     {
-		private int  _id
-		private Livre _livreEmprunte;
+		
+		
+		private int _id;
 
-		public Livre LivreEmprunte
+		public int Id
+		{
+			get { return _id; }
+			set { _id = value; }
+		}
+
+        private Livre _livreEmprunte;
+        public Livre LivreEmprunte
 		{
 			get { return _livreEmprunte; }
 		}
@@ -35,9 +43,10 @@ namespace BiblioVersion1.classes
 		{
 			get { return _emprunteur; }
 		}
-		public Emprunt(Livre livreEmprunte, DateTime dateEmprunt, Abonne emprunteur)
+		public Emprunt(int id, Livre livreEmprunte, DateTime dateEmprunt, Abonne emprunteur)
 		{
-			_livreEmprunte = livreEmprunte;
+			_id = id;
+            _livreEmprunte = livreEmprunte;
 			_dateEmprunt = dateEmprunt;
             _emprunteur = emprunteur;
         }
@@ -51,5 +60,6 @@ namespace BiblioVersion1.classes
             }
             return info;
 		}
+		
 	}
 }
